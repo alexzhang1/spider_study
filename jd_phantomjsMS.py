@@ -69,3 +69,5 @@ time.sleep(3)
 buy_on_time('2017-12-14 14:20:00')
 time.sleep(1)
 logout()
+#加入退出语句.20171226
+obj.exit()
