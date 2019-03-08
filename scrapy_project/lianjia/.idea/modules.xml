@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/lianjia.iml" filepath="$PROJECT_DIR$/.idea/lianjia.iml" />
+      <module fileurl="file://E:/工作目录/python/spider_ct/.idea/spider_ct.iml" filepath="E:/工作目录/python/spider_ct/.idea/spider_ct.iml" />
+    </modules>
+  </component>
+</project>
